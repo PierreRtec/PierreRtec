@@ -27,9 +27,9 @@ I'm a Full Stack developper from France. <img src="https://upload.wikimedia.org/
 
 I'm currently a student of Openclassrooms. I'm in the <a href="https://openclassrooms.com/fr/paths/518-developpeur-dapplication-python" target="_blank">**Python Web Applications Developper**</a>. And after that, i wish go in the UX/UI Designer training course.
 
-- 🔭 I’m currently working on my portfolio's project ! (with pure vanilla HTML/CSS/JavaScript)
+- 🔭 I’m working on my portfolio's project ! (with pure vanilla HTML/CSS/JavaScript)
 
-- 🌱 I’m currently learning lots of programming languages and stuffs like projetcs management, SEO, agiles methodes, etc.
+- 🌱 I’m learning lots of programming languages and stuffs like projetcs management, SEO, agiles methodes, etc.
 
 - ⚡ I can't stop learning things.
 
@@ -82,3 +82,25 @@ I'm currently a student of Openclassrooms. I'm in the <a href="https://openclass
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PierreRtec&layout=compact&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
+  &nbsp;
+
+---
+  &nbsp;
+
+<div id="endgif" align="center">
+  <em>Me, when i past hours coding without looking at a breakpoint time..</em>
+
+  &nbsp;
+
+  <img src="https://media.giphy.com/media/uurtMtTKqkJda4dk8Y/giphy.gif" height=280/>
+</div>
+
+  &nbsp;
+
+
+<div id="bye" align="right">
+See ya !<br>
+Pierre
+</div>
+
+---
