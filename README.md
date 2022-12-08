@@ -88,11 +88,13 @@ I'm currently a student of Openclassrooms. I'm in the <a href="https://openclass
   &nbsp;
 
 <div id="endgif" align="center">
+  <img src="https://media.giphy.com/media/uurtMtTKqkJda4dk8Y/giphy.gif" height="280px"/>
+
+&nbsp;
+
   <em>Me, when i past hours coding without looking at a breakpoint time..</em>
 
-  &nbsp;
 
-  <img src="https://media.giphy.com/media/uurtMtTKqkJda4dk8Y/giphy.gif" height="280px"/>
 </div>
 
   &nbsp;
