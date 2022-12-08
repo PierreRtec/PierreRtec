@@ -1,6 +1,8 @@
 <div id="welcome" align="center">
   <img src="https://media.giphy.com/media/xT0BKpqAaJczduXXJ6/giphy.gif"/>
 
+  &nbsp;
+
   <img src="https://komarev.com/ghpvc/?username=pierrertec&color=yellowgreen&style=for-the-badge"/>
   <h1>Welcome to my github page!</h1>
 </div>
