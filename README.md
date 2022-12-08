@@ -92,7 +92,7 @@ I'm currently a student of Openclassrooms. I'm in the <a href="https://openclass
 
   &nbsp;
 
-  <img src="https://media.giphy.com/media/uurtMtTKqkJda4dk8Y/giphy.gif" height=280/>
+  <img src="https://media.giphy.com/media/uurtMtTKqkJda4dk8Y/giphy.gif" height="280px"/>
 </div>
 
   &nbsp;
