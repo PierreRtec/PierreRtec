@@ -33,7 +33,7 @@ I'm currently a student of Openclassrooms. I'm in the <a href="https://openclass
 
 - ⚡ I can't stop learning things.
 
-- 📬 How to reach me : [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https%3A%2F%2Fwww.linkedin.com%2Fin%2Fpierre-rondeau%2F/https%3A%2F%2Fwww.linkedin.com%2Fin%2Fpierre-rondeau%2F/)
+- 📬 How to reach me : [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pierre-rondeau/)
 
 &nbsp;
 
