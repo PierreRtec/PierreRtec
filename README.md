@@ -30,7 +30,7 @@ Atypical path: school dropout, multiple pivots, found code, shipped 13+ projects
 | **AI Sprint** | Packaged 2-week automation sprints for SMBs (5K EUR) | Active |
 | **LinkedIn Prospector** | AI-powered prospection system: scraping, scoring, personalized outreach | Active |
 | **Liberty** | Personal AI co-pilot: 13+ commands, 6 sub-agents, MCP integrations | Daily use |
-| **n8n Monitor** | Monitoring dashboard for n8n workflows | Live |
+| [**n8n Monitor**]([https://n8n-monitor-nine.vercel.app/](https://n8n-monitor-nine.vercel.app/)) | Monitoring dashboard for n8n workflows | Live |
 
 ---
 
